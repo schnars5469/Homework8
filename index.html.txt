@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Homework 8</h1>
-<p></p>
-</body>
+</p>
+<body>This page was created for Homework 8 of Practical Bioinformatics</body>
 </html>
